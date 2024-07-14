@@ -9,4 +9,4 @@ This is a simple implementation of the classic Tic Tac Toe game built with React
 - Highlights the winner
 - Shows tie game status
 
-## [Hosted_Link](https://github.com/Amanulla2022/tic-tac-toe)
+## [Hosted_Link](https://tic-tac-toe-ten-eosin.vercel.app/)
